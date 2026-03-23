@@ -1,1 +1,1 @@
-# Shreyas-Blog-Platform
+#Blog-Platform
